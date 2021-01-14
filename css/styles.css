@@ -68,6 +68,13 @@ h3 {
  padding-left: 30px;
 }
 
+.contact-me {
+  width: 50%;
+  margin: 10px auto 100px auto;
+  text-align: center;
+  line-height: 2;
+}
+
 .btn {
   margin-top: 20px;
    -webkit-border-radius: 12px;
