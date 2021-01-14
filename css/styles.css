@@ -28,10 +28,11 @@ h2 {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: #EAF6F6;
+  border-color: #11999E;
   border-width: 5px;
   width: 5%;
 }
+
 
 h3 {
   font-family: 'Montserrat', sans-serif;
@@ -48,6 +49,13 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.text {
+  width: 50%;
+  margin: 0 auto 20px auto;
+  text-align: center;
+  line-height: 2;
 }
 
 .skill-row {
